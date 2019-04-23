@@ -1,0 +1,22 @@
+/*fanpage css*/
+
+body {
+    background-image: href="background.jpg" (violin.jpeg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    margin:40px;
+    padding:20px;
+    background-color: slategrey}
+
+
+h1 {color:palevioletred;}
+
+.paragraph {  padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;}
+
+.ol { padding: 20px;
+        margin: 10px;
+        color: palevioletred;}
